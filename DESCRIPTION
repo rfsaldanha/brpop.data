@@ -13,3 +13,4 @@ Depends:
     R (>= 2.10)
 LazyData: true
 LazyDataCompression: xz
+URL: https://rfsaldanha.github.io/brpop.data/

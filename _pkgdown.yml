@@ -1,0 +1,7 @@
+url: https://rfsaldanha.github.io/brpop.data/
+template:
+  bootstrap: 5
+  theme: breeze-light
+  params:
+    ganalytics: G-2M7VLSRDCB
+
