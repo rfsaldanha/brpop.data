@@ -16,6 +16,5 @@ mun_reg_saude
 }
 \description{
 A dataset containing municipality and health regions codes.
-#'
 }
 \keyword{datasets}
